@@ -1,1 +1,1 @@
-This is the first file in the repository
+/tellraw @a POG POG POG
